@@ -52,6 +52,36 @@ Hi! I'm Sparshi, a curious coder with a love for AI, ML, and design.
 
 **🔧 Tools & Hardware**  
 <img src="https://skillicons.dev/icons?i=vscode,postman,linux&theme=dark" />
+## 🤖 Generative AI & Agentic AI Stack
+
+### 🦙 Large Language Models
+![LLaMA](https://img.shields.io/badge/LLaMA-FF6F00?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+---
+
+### 🧠 Retrieval-Augmented Generation (RAG)
+![RAG](https://img.shields.io/badge/RAG-System-blue?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-VectorDB-green?style=for-the-badge)
+![Vector Database](https://img.shields.io/badge/Vector-Embeddings-purple?style=for-the-badge)
+
+---
+
+### 🔗 Agentic AI Frameworks
+![LangChain](https://img.shields.io/badge/LangChain-00C7B7?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF4B4B?style=for-the-badge)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent-System-orange?style=for-the-badge)
+![Tool Calling](https://img.shields.io/badge/Tool-Calling-red?style=for-the-badge)
+
+---
+
+### 🚀 Deployment & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 
 
 
