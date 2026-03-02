@@ -20,13 +20,13 @@ Hi! I'm Sparshi, a curious coder with a love for AI, ML, and design.
 <div align="center">
 
 **💻 Languages**  
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,java,rust,go&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,java&theme=dark" />
 
 **🌐 Frontend**  
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs,vue,angular,sass&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,vue,angular,sass&theme=dark" />
 
 **⚙️ Backend & APIs**  
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring,nestjs,graphql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi&theme=dark" />
 
 **🤖 AI/ML & Data Science**  
 
@@ -39,19 +39,21 @@ Hi! I'm Sparshi, a curious coder with a love for AI, ML, and design.
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras&theme=dark" alt="TensorFlow, PyTorch, Keras" />
 
 **🖼️ Computer Vision & NLP**  
-<img src="https://skillicons.dev/icons?i=opencv,transformers,spacy&theme=dark" alt="OpenCV, Hugging Face Transformers, SpaCy" />
+<img src="https://skillicons.dev/icons?i=opencv,transformers,Scikit-learn&theme=dark" alt="OpenCV, Hugging Face Transformers, SpaCy" />
 
 **⚙️ Deployment & MLOps**  
-<img src="https://skillicons.dev/icons?i=docker,mlflow,fastapi&theme=dark" alt="Docker, MLflow, FastAPI" />
+<img src="https://skillicons.dev/icons?i=docker,fastapi,flask,render,Git&theme=dark" alt="Docker, MLflow, FastAPI" />
 
 **🗄️ Databases***  
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite&theme=dark" />
 
 **☁️ Cloud & DevOps**  
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,github,git,heroku,terraform,ansible&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,docker,Streamlit&theme=dark" />
 
 **🔧 Tools & Hardware**  
-<img src="https://skillicons.dev/icons?i=vscode,postman,arduino,raspberrypi,linux,figma,canva&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,postman,linux&theme=dark" />
+
+
 
 </div>
 
