@@ -58,17 +58,7 @@ Hi! I'm Sparshi, a curious coder with a love for AI, ML, and design.
 
 ---
 
-### 🔥 GitHub Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=sparshi15&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=10" height="220" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sparshi15&show_icons=true&theme=dracula&count_private=true" height="150" />
-  
-</div>
-
----
 
 ### 📂 Featured Projects
 <div align="center">
@@ -102,10 +92,38 @@ Hi! I'm Sparshi, a curious coder with a love for AI, ML, and design.
 
 ---
 
-### 📊 GitHub Activity
+
+<!-- ================= GITHUB ANALYTICS SECTION ================= -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
 <div align="center">
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sparshi15&theme=dracula)
+
+
+
+<br/>
+
+<div align="center">
+
+  <!-- Streak Stats -->
+  <img height="180" src="https://streak-stats.demolab.com?user=sparshi15&theme=dracula&hide_border=false" />
+
 </div>
+
+<br/>
+
+<div align="center">
+
+  <!-- Contribution Summary -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sparshi15&theme=dracula" />
+
+</div>
+
+<br/>
+
+
+
+<!-- ============================================================= -->
 
 ---
 
