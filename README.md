@@ -98,6 +98,12 @@ Hi! I'm Sparshi, a curious coder with a love for AI, ML, and design.
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
+<h2 align="center">💻 Most Used Languages</h2>
+
+<div align="center">
+  <img 
+       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sparshi15&theme=dracula" />
+</div>
 
 
 
