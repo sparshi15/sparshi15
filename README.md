@@ -11,7 +11,6 @@
 ### 👩‍💻 About Me
 Hi! I'm Sparshi, a curious coder with a love for AI, ML, and design.  
 - 🔭 Currently diving into **Web Development**, **Data Science**, and **Deep Learning**  
-- 💡 Passionate about **Graphic Designing** and creative projects  
 - 🌱 Constantly exploring **new tech** and building real-world projects  
 - ⚡ Fun Fact: Coffee fuels my coding ☕, and I love music while coding 🎧  
 
@@ -63,15 +62,27 @@ Hi! I'm Sparshi, a curious coder with a love for AI, ML, and design.
 ### 📂 Featured Projects
 <div align="center">
 
-**💬 [Chatbox](https://github.com/sparshi15/chatbox)** – AI chatbot using Python & NLP 🤖  
-<br>
-**🤖 [ANN Deep Learning](https://github.com/sparshi15/DEEP-LEARNING-PROJECT-USING-ANN)** – Artificial Neural Network project 🧠  
-<br>
-**📊 [ML Lifecycle](https://github.com/sparshi15/step-by-step-project-implementation-with-life-cycle-of-ML-project)** – End-to-end ML project workflow 🚀  
-<br>
-**🌐 [Portfolio](https://github.com/sparshi15/portfolio)** – Personal portfolio website 💻  
-<br>
-**📈 [Trader Behavior Analysis](https://github.com/sparshi15/ds_sparshi_jain)** – Market sentiment vs trader behavior 📊  
+### 🔹 Advanced AI Based Air Quality Prediction Early Warning System  
+📊 Predicts air quality levels and generates alerts using ML.  
+🔗 Code: https://github.com/sparshi15/Advanced-AI-Based-Air-Quality-Prediction-Early-Warning-System
+
+---
+
+### 🔹 Research Paper Abstract Sentiment Analysis  
+📚 Analyzes sentiments in research paper abstracts using machine learning.  
+🔗 Code: https://github.com/sparshi15/Research-Paper-Abstract-Sentiment-Analysis-By-Machine-Learning-
+
+---
+
+### 🤖 Agentic AI RAG Chatbot (FAISS · Ollama · LangGraph)  
+💬 Built an agentic AI chatbot using retrieval-augmented generation (RAG) with vector search.  
+🔗 Code: https://github.com/sparshi15/Agentic-AI-RAG-Chatbot-FAISS-Ollama-LangGraph-
+
+---
+
+### 🧬 OrganTrust-AI  
+🧠 Predictive AI for healthcare-related organ trust analysis.  
+🔗 Code: https://github.com/sparshi15/OrganTrust-AI--main
 
 </div>
 
