@@ -65,7 +65,7 @@ Hi! I'm Sparshi, a curious coder with a love for AI, ML, and design.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sparshi15&show_icons=true&theme=dracula&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparshi15&layout=compact&theme=dracula&langs_count=5" height="150" />
+  
 </div>
 
 ---
