@@ -20,7 +20,7 @@ Hi! I'm Sparshi, a curious coder with a love for AI, ML, and design.
 <div align="center">
 
 **💻 Languages**  
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,java&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,javascript,cpp,C&theme=dark" />
 
 **🌐 Frontend**  
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,vue,angular,sass&theme=dark" />
