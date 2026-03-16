@@ -10,7 +10,7 @@
 
 ### 👩‍💻 About Me
 Hi! I'm Sparshi, a curious coder with a love for AI, ML, and design.  
-- 🔭 Currently diving into **python  Development**, **Data Science**, and **Deep Learning**  
+- 🔭 Currently diving into **Python  Development**, **Data Science**, and **Deep Learning**  
 - 🌱 Constantly exploring **new tech** and building real-world projects  
 - ⚡ Fun Fact: Coffee fuels my coding ☕, and I love music while coding 🎧  
 
