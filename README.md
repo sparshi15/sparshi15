@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hey there, 👋 I'm Sparshi Jain!</h1>
-<h3 align="center">3rd Year Undergrad | Web Development & Data Science Enthusiast | AI & ML Explorer</h3>
+<h3 align="center">3rd Year Undergrad | Python Developer & Data Science Enthusiast | AI & ML Explorer</h3>
 
 ---
 
