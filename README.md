@@ -85,33 +85,25 @@ Hi! I'm Sparshi, a curious coder with a love for AI, ML, and design.
 
 
 
-</div>
-<!-- Contribution Summary -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sparshi15&theme=dracula" />
+
 
 <br/>
-
-<!-- 🔽 ADD HERE 🔽 -->
-
 <h2 align="center">🔄 Pull Requests & Contributions</h2>
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20PRs&query=%24.total_count&url=https://api.github.com/search/issues?q=author:sparshi15+type:pr&style=for-the-badge&color=blue" />
+  <!-- Total PRs -->
+  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20PRs&query=%24.total_count&url=https://api.github.com/search/issues?q=author:sparshi15+type:pr" />
 
-  <img src="https://img.shields.io/badge/dynamic/json?label=Closed%20PRs&query=%24.total_count&url=https://api.github.com/search/issues?q=author:sparshi15+type:pr+is:closed&style=for-the-badge&color=green" />
+  <!-- Merged PRs -->
+  <img src="https://img.shields.io/badge/dynamic/json?label=Merged%20PRs&query=%24.total_count&url=https://api.github.com/search/issues?q=author:sparshi15+type:pr+is:merged" />
+
+  <!-- Closed PRs -->
+  <img src="https://img.shields.io/badge/dynamic/json?label=Closed%20PRs&query=%24.total_count&url=https://api.github.com/search/issues?q=author:sparshi15+type:pr+is:closed" />
 
 </div>
 
 <br/>
-
-<!-- 🔼 END ADD 🔼 -->
-
-<!-- ============================================================= -->
-
----
-
-> “Code is like humor...
 
 ---
 
