@@ -187,6 +187,64 @@ Hi! I'm Sparshi, a curious coder with a love for AI, ML, and design.
 </div>
 
 <br/>
+<div align="center">
+<h2 align="center">💻 Most Used Languages</h2>
+
+<div align="center">
+  <img 
+       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sparshi15&theme=dracula" />
+</div>
+
+<br/>
+
+<div align="center">
+
+  <!-- Streak Stats -->
+  <img height="180" src="https://streak-stats.demolab.com?user=sparshi15&theme=dracula&hide_border=false" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <!-- Contribution Summary -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sparshi15&theme=dracula" />
+
+</div>
+
+<br/>
+
+<!-- 🔽 ADD THIS PR SECTION 🔽 -->
+
+<h2 align="center">🔄 Pull Requests & Contributions</h2>
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20PRs&query=%24.total_count&url=https://api.github.com/search/issues?q=author:sparshi15+type:pr&style=for-the-badge&color=blue" />
+
+  <img src="https://img.shields.io/badge/dynamic/json?label=Merged%20PRs&query=%24.total_count&url=https://api.github.com/search/issues?q=author:sparshi15+type:pr+is:merged&style=for-the-badge&color=green" />
+
+  <img src="https://img.shields.io/badge/dynamic/json?label=Closed%20PRs&query=%24.total_count&url=https://api.github.com/search/issues?q=author:sparshi15+type:pr+is:closed&style=for-the-badge&color=red" />
+
+</div>
+
+<br/>
+
+<!-- 🔼 END PR SECTION 🔼 -->
+
+<!-- ============================================================= -->
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+---
+
+### 🎮 When I'm Not Coding...
+<div align="center">
+**🎯 Gaming • 📚 Learning • 🌍 Exploring Tech • 💡 Building Ideas**
+</div>
 
 
 
