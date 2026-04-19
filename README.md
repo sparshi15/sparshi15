@@ -186,34 +186,8 @@ Hi! I'm Sparshi, a curious coder with a love for AI, ML, and design.
 
 </div>
 
-<br/>
-<div align="center">
-<h2 align="center">💻 Most Used Languages</h2>
 
-<div align="center">
-  <img 
-       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sparshi15&theme=dracula" />
-</div>
 
-<br/>
-
-<div align="center">
-
-  <!-- Streak Stats -->
-  <img height="180" src="https://streak-stats.demolab.com?user=sparshi15&theme=dracula&hide_border=false" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-  <!-- Contribution Summary -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sparshi15&theme=dracula" />
-
-</div>
-
-<br/>
 
 <!-- 🔽 ADD THIS PR SECTION 🔽 -->
 
@@ -241,18 +215,7 @@ Hi! I'm Sparshi, a curious coder with a love for AI, ML, and design.
 
 ---
 
-### 🎮 When I'm Not Coding...
-<div align="center">
-**🎯 Gaming • 📚 Learning • 🌍 Exploring Tech • 💡 Building Ideas**
-</div>
 
-
-
-<!-- ============================================================= -->
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 ---
 
